@@ -23,7 +23,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: amazon-container
-        image: hmd5016/amazon:latest
+        image: hmd5016/amazon:4
         ports:
         - containerPort: 3000
         
